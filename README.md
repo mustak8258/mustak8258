@@ -7,12 +7,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / JAVASCRIPT / PHP/ WORDPRESS 
 
-- 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Wordpress Theme Development 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with YouTube 
-- 💬 Ask me about Web Developer 
-- 📫 How to reach me: Mustak Tahmid Taj 
+-👨‍🎓 I’m currently working on Student 
+-💻 I’m currently learning Wordpress Theme Development 
+-👯 I’m looking to collaborate on github 
+-🤔 I’m looking for help with YouTube 
+-💬 Ask me about Web Developer 
+-📫 How to reach me: Mustak Tahmid Taj 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mustak8258)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mustaktahmidtaj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mustaktahmidtaj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](mustaktahmidtaj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/iata.svg' alt='iata' height='40'>](mustaktahmidtaj)  
