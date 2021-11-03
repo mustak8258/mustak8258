@@ -4,7 +4,7 @@
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
-🎤 Like to Learning coding </p> 
+🎤 Like to learn coding </p> 
 
 ![Profile views](https://gpvc.arturio.dev/mustak8258) 
 
